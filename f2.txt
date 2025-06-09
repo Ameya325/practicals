@@ -2,3 +2,6 @@ This is f2.txt file.
 
 //Sudden changes
 These are the sudden changes to be added.
+
+//Third Line added
+This is the third line added.
