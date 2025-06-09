@@ -1,5 +1,2 @@
 This is f1.txt file.
 
-These are the sudden changes to be added.
-
-This is current changes  to be added.
